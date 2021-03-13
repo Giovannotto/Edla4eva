@@ -1,0 +1,40 @@
+﻿Name: Joshua Omosun Oshoke
+Matriculation number: ENG1804786
+Course code: ECP281
+
+Some contributions made by some students in the class:
+In terms of experience of the computer i.e. the people who created it, created a success from previous failures.
+The children unlike the computer, can adapt, learn which is one of the forms of expressing intelligence
+The computer can be limited to performing only one task, unlike the children who can multitask.
+In terms of speed, the computer is efficient, the computer can perform its assigned operation way faster than a normal adult talk less of a child. 
+In terms of brain power, the children win, the human brain is powerful, it’s proven scientifically that the brain of a human can never be full.
+Computers can be upgraded and updated to match the times they are in, needs and new purposes. So the computer was deemed more intelligent.
+Humans built the computers are more intelligent than the machines. It’s a scenario of a creator and his creation, the creation can’t surpass the creator.
+The fact humans built the computers and taught them all they know or so was likened to a teacher and student, in which the students surpass the teacher. So the computer was deemed more intelligent.
+Computers only give out what they are given and that’s not real intelligence or even intelligence at all, an instance was given of two children going for a competition and one was told before the competition that 1+1 equals 2 and the other wasn’t. when the question 1+1 is asked and the one who was told before answers instantly while the other calculates and takes time, the more intelligent one is the one who got it himself. So the children were taken to be more intelligent.
+The computer can take all its data and programming to solve whatever comes its way as long as it’s in the scope of its data and programming. 
+
+
+
+The internet takes its approach in comparison from different aspects like:
+Nature:
+Human Intelligence aims to adapt to new environments by utilizing a combination of different cognitive processes, while computer intelligence mimic human behavior and perform human-like actions. The human brain is analogous, but machines are digital.
+
+Functioning: 
+Humans use the brain’s computing power, memory, and ability to think, whereas computers rely on data and specific instructions fed into their system. Computers cannot make rational decisions for themselves, their decision making power is based on events, data they are trained on and how they are related to a particular event. Computers cannot understand the concept of course and effects because they lack common sense. They can learn from data through continuous training, but they can never achieve the thought process unique to humans.
+
+Learning power:
+Humans learn from mistakes, various incidents and past experiences. Intelligent thought and intelligent behavior lie at the core of Human Intelligence. Computers or machines cannot think. they can perform certain tasks well, buy it will take them years to learn a completely different set of functions for a new application area. 
+
+Storage:
+When it comes to storage, the human brain excels, estimation vary on how many nerves cells or neurons exist in a typical human brain but Some studies say about a 100 million neurons, while some others may take it as 200 Neurons. If we are to give the computer an average of 1TB of storage space and compare that with a human brain, which has neurons with thousands of connections with each other which brings to another estimation of a trillion connections, through all these connections, the human brain can be roughly estimated to hold about an average of 1 petabyte which is thousands of terabytes.  
+
+Memory:
+Talking about memories, there are some factors that tip the advantages to the side of the machines, like the ability of humans to forget, machines being able to retrieve information at an exponentially fast rate and so on. With all these advantages on the side of computers there is one thing computers cannot do when it comes to memory and it is prioritizing memories based on importance which humans can do. 
+
+Energy Efficiency
+In energy efficiency, the human brain beats out the computer, in that the computer runs on about 100Watt and the human brain roughly requires 10Watts which is even less than what is required to light a bulb. 
+
+
+Honestly looking at it from the perspective of what both parties can achieve and the speed at which the tasks can be achieved, computers win anytime any day, but it goes way beyond that. These computers cannot perform a single task without being fed with data, they are not allowed to make mistakes and even when they do, they cannot learn from them unlike the 9 year olds. The children as humans possess the unique ability to learn and apply their acquired knowledge in combination with logic, reasoning, and understanding. Real-world scenarios require a holistic, logical, rational, and emotional approach that is specific to humans. As Nick Burns, an SQL Services Data Scientist, puts it: “No matter how good your models are, they are only as good as your data…”
+ 
